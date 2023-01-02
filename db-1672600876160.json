@@ -1,0 +1,19 @@
+{
+  "heros": [
+    {
+      "id": 1,
+      "heroName": "Lance",
+      "role": "ass"
+    },
+    {
+      "id": 2,
+      "heroName": "Saver",
+      "role": "ass"
+    },
+    {
+      "id": 3,
+      "heroName": "Fanny",
+      "role": "ass"
+    }
+  ]
+}
